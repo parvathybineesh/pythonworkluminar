@@ -1,0 +1,41 @@
+.row{
+    width: 80%;
+    height: 400px;
+    background-color: aquamarine;
+    border: 1px solid black;
+    position: absolute;
+}
+.col{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    
+}
+.row .col:nth-child(1){
+    background-color: brown;
+    /*position: absolute;
+    top:50%;
+    left: 50%;*/
+    position: relative;
+    left: 50%;
+    top: 50%; 
+}
+.row .col:nth-child(2){
+    background-color:darkmagenta;
+}
+.fixed{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border: 1px solid black;
+    position: fixed;
+    left:80%;
+}
+.sticky{
+    width: 200px;
+    height: 200px;
+    background-color:blue;
+    border: 1px solid black;
+    position: sticky;
+    top: 60px;
+}

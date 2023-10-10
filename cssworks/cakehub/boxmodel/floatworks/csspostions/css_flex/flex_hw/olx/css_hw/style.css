@@ -1,0 +1,108 @@
+.row{
+    width:80%;
+    height:600px;
+    background-color: black;
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    position:absolute;
+    margin-top: 10px;
+    
+}
+.col{
+    width:40%;
+    height:200px;
+    background-color: white;
+    border: 1px solid black;
+    
+    
+}
+.box1{
+    width:100px;
+    height:100px;
+    background-color: red;
+    border: 1px solid rgb(14, 14, 14);
+    text-align:center;
+    font-size:5px;
+    position:relative;
+    bottom: 50px;
+    
+    
+}
+.box2{
+    width:100px;
+    height:100px;
+    background-color: magenta;
+    border: 1px solid black;
+    text-align:center;
+    position: relative;
+    bottom: 50px;
+    
+}
+.box3{
+    width:100px;
+    height:100px;
+    background-color: blue;
+    border: 1px solid rgb(14, 14, 14);
+    text-align:center;
+    position: relative;
+    bottom: 50px;
+    
+}
+.box4{
+    width:100px;
+    height:100px;
+    background-color: aquamarine;
+    border: 1px solid rgb(14, 14, 14);
+    text-align:center;
+    position: relative;
+    bottom: 50px;
+    
+    
+}
+.card-title{
+    color:orangered;
+    position: relative;
+    margin-left: 120px;
+    font-size:20px;
+    
+}
+
+.card-footer{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    margin-top: 90px;
+    margin-left: 160px;
+    
+}
+.card-footer{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    margin-top: 90px;
+    margin-left: 160px;
+    
+}
+.btn{
+    background-color:grey;
+    position:relative;
+    bottom:120px;
+    right:70px;
+    
+}
+.btn1{
+    background-color:yellow;
+    position:relative;
+    bottom:120px;
+
+}
+
+.card-body{
+    width:300px;
+    position:relative;
+    left:102px;
+    top:50px;
+    
+}

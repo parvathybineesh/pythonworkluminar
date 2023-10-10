@@ -1,0 +1,246 @@
+.row{
+    width: 100%;
+    height: 800px;
+    background-color: black;
+    border: 1px solid black;
+    position: absolute;
+    display: flex;
+    justify-content: space-around;
+
+}
+.col1{
+    width: 50px;
+    height: 100px;
+    background-color: grey;
+    border: 1px solid black;
+    position: relative;
+    top: 100px;
+    left: 490px;
+    
+}
+.col2{
+    width: 50px;
+    height: 100px;
+    background-color: aqua;
+    border: 1px solid black;
+    position: relative;
+    top: 100px;
+    left: 240px;
+    
+}
+.col3{
+    width: 50px;
+    height: 100px;
+    background-color: blue;
+    border: 1px solid black;
+    position: relative;
+    top: 100px;
+    right: 11px;
+}
+.col4{
+    width: 50px;
+    height: 100px;
+    background-color: pink;
+    border: 1px solid black;
+    position: relative;
+    top: 100px;
+    right: 260px;
+
+}
+.col5{
+    width:50px;
+    height: 100px;
+    background-color: yellow;
+    border: 1px solid black;
+    position: relative;
+    top: 100px;
+    right: 510px;
+
+}
+.row1{
+    width:100%;
+    height:800px;
+    border:1px solid black;
+    position:absolute;
+
+}
+.col6{
+    width:50px;
+    height:100px;
+    background-color:orange;
+    border:1px solid black;
+    position:relative;
+    left:530px;
+    top:250px;
+}
+.col7{
+    width:50px;
+    height:100px;
+    background-color:rgb(131, 37, 37);
+    border:1px solid black;
+    position:relative;
+    left:590px;
+    top:150px;
+
+}
+.col8{
+    width:50px;
+    height:100px;
+    background-color:palevioletred;
+    border:1px solid black;
+    position:relative;
+    left:650px;
+    top:50px;
+
+}
+.col9{
+    width:50px;
+    height:100px;
+    background-color:rgb(180, 4, 180);
+    border:1px solid black;
+    position:relative;
+    left: 710px;
+    bottom: 50px;
+}
+.col10{
+    width:50px;
+    height:100px;
+    background-color:rgb(65, 1, 65);
+    border:1px solid black;
+    position:relative;
+    left: 770px;
+    bottom: 151px;
+}
+.col11{
+    width:50px;
+    height:100px;
+    background-color:rgb(178, 6, 178);
+    border:1px solid black;
+    position:relative;
+    left: 830px;
+    bottom: 251px;
+}
+.col12{
+    width:50px;
+    height:100px;
+    background-color:rgb(55, 51, 51);
+    border:1px solid black;
+    position:relative;
+    left: 890px;
+    bottom: 352px;
+}
+.col13{
+    width:50px;
+    height:100px;
+    background-color:rgb(219, 123, 123);
+    border:1px solid black;
+    position:relative;
+    left: 950px;
+    bottom:452px;
+
+}
+.row2{
+    width:100%;
+    height:800px;
+    border:1px solid black;
+    position:absolute;
+
+}
+.col14{
+    width:50px;
+    height:100px;
+    background-color: aquamarine;
+    border:1px solid black;
+    position:relative;
+    bottom: 430px;
+    left: 450px;
+    
+}
+.col15{
+    width:50px;
+    height:100px;
+    background-color:greenyellow;
+    border:1px solid black;
+    position:relative;
+    bottom:530px;
+    left: 510px;
+}
+.col16{
+    width:50px;
+    height:100px;
+    background-color:rgb(219, 123, 123);
+    border:1px solid black;
+    position:relative;
+    left: 570px;
+    bottom: 630px;
+
+}
+.col17{
+    width:50px;
+    height:100px;
+    background-color:orange;
+    border:1px solid black;
+    position:relative;
+    left:630px;
+    bottom: 730px;
+
+}
+.col18{
+    width:50px;
+    height:100px;
+    background-color:rgb(167, 11, 11);
+    border:1px solid black;
+    position:relative;
+    left: 690px;
+    bottom:831px;
+    
+}
+.col19{
+    width:50px;
+    height:100px;
+    background-color:aqua;
+    border:1px solid black;
+    position:relative;
+    left:750px;
+    bottom:931px;
+
+}
+.col20{
+    width:50px;
+    height:100px;
+    background-color:antiquewhite;
+    border:1px solid black;
+    position:relative;
+    left: 810px;
+    bottom: 1032px;
+}
+.col21{
+    width:50px;
+    height:100px;
+    background-color:green;
+    border:1px solid black;
+    position:relative;
+    left: 870px;
+    bottom: 1133px;
+    
+}
+.col22{
+    width:50px;
+    height:100px;
+    background-color:purple;
+    border:1px solid black;
+    position:relative;
+    left: 930px;
+    bottom:1235px;
+
+}
+.col23{
+    width:50px;
+    height:100px;
+    background-color:indigo;
+    border:1px solid black;
+    position:relative;
+    left: 986px;
+    bottom:1335px;
+
+}

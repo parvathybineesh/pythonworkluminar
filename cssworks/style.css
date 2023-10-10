@@ -1,0 +1,38 @@
+/* tagname|className|id */
+
+body{
+    background-color:black;
+
+}
+/*h1{
+    color:cyan;
+} */
+
+#first{
+    color:#38a2b5
+
+}
+.item{
+    color:blue;
+}
+.item2{
+    color:white;
+    text-decoration: overline;
+    text-decoration-color:white;
+}
+.list-item{
+    color:green;
+}
+.list-item li{
+    text-decoration: underline;
+}
+/*.main-head h1{
+    color:aqua;
+} */
+
+.main-head h1:nth-child(1){
+    color:aqua;
+}
+.main-head h1:nth-child(2){
+    color:rgb(0,255,149);
+}
